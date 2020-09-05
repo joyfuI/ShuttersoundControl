@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">셔터음 조절</string>
+
+    <string name="unsupported">지원되지 않습니다</string>
+    <string name="shuttersound_on">강제 셔터음 켜기</string>
+    <string name="shuttersound_off">강제 셔터음 끄기</string>
+    <string name="apply_message">설정이 변경되었습니다\n재부팅 후부터 적용됩니다</string>
+
+    <string name="menu_create">키 생성 (테스트용)</string>
+</resources>
